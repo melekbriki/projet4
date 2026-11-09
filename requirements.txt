@@ -1,0 +1,8 @@
+easyocr
+pillow
+langchain-core
+langchain-groq
+langchain-google-genai
+pydantic
+streamlit
+python-dotenv
